@@ -2,6 +2,8 @@
 ## Overview
 The Weather Dashboard is a web application that provides real-time weather information for a given location. It is built using JavaScript, CSS for styling, and basic HTML for the structure. This dashboard is a simple yet effective tool for quickly checking weather conditions, making it easy for users to plan their day accordingly.
 
+View the website here : https://lukiangelxd.github.io/Weather-DashBoard/
+
 ### Features
 Current Weather: View the current weather conditions, including temperature, humidity, wind speed, and weather description for the specified location.
 
